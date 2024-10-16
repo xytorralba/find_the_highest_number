@@ -42,5 +42,7 @@ def find_highest(num1, num2, num3, num4, num5):
             return num5
 
 #INPUT FIVE NUMBERS
+res = find_highest(12,16,-8,18,-84)
 
 #PRINT THE HIGHEST NUMBER
+print(f"Highest number: {res}")
